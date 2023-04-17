@@ -1,0 +1,97 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Thomas Armstrong</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2023-04-17T18:11:46-04:00</updated>
+  <author>
+    <name>Thomas Armstrong</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Thomas Armstrong </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Ensuring Polyphase Properties of Vision Transformers</title>
+    <link href="http://localhost:4000/posts/undergradresearch/" rel="alternate" type="text/html" title="Ensuring Polyphase Properties of Vision Transformers" />
+    <published>2023-03-30T00:00:00-04:00</published>
+  
+    <updated>2023-03-30T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/undergradresearch/</id>
+    <content src="http://localhost:4000/posts/undergradresearch/" />
+    <author>
+      <name>willding, davitsoselia, tarmst</name>
+    </author>
+
+  
+    
+    <category term="Research" />
+    
+    <category term="Undergraduate" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      For my undergraduate research, I worked on ensuring the polyphase property of the Vision Transformer. While some components of the transformer were polyphase, others were not. By making the remaining components polyphase, we may be able to make these vision models more robust to adversarial inputs.
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Comparing Various Deep Learning Techniques for Image Classification</title>
+    <link href="http://localhost:4000/posts/datascience/" rel="alternate" type="text/html" title="Comparing Various Deep Learning Techniques for Image Classification" />
+    <published>2022-11-30T00:00:00-05:00</published>
+  
+    <updated>2023-04-17T17:58:35-04:00</updated>
+  
+    <id>http://localhost:4000/posts/datascience/</id>
+    <content src="http://localhost:4000/posts/datascience/" />
+    <author>
+      <name>tarmst</name>
+    </author>
+
+  
+    
+    <category term="Undergraduate" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      For my data science class’ final project, I chose to compare the performance of different deep learning architectures on the classic MNIST dataset. In the project, I used a convolutional neural network and a dense network.
+
+View it here
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+

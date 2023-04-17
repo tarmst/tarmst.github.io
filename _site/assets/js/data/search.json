@@ -1,0 +1,38 @@
+[
+  
+  {
+    "title": "Ensuring Polyphase Properties of Vision Transformers",
+    "url": "/posts/undergradresearch/",
+    "categories": "Research, Undergraduate",
+    "tags": "transformer, vision",
+    "date": "2023-03-30 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "For my undergraduate research, I worked on ensuring the polyphase property of the Vision Transformer. While some components of the transformer were polyphase, others were not. By making the remaini...",
+    "content": "For my undergraduate research, I worked on ensuring the polyphase property of the Vision Transformer. While some components of the transformer were polyphase, others were not. By making the remaining components polyphase, we may be able to make these vision models more robust to adversarial inputs."
+  },
+  
+  {
+    "title": "Comparing Various Deep Learning Techniques for Image Classification",
+    "url": "/posts/datascience/",
+    "categories": "Undergraduate",
+    "tags": "cnn, dense, vision",
+    "date": "2022-11-30 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "For my data science class’ final project, I chose to compare the performance of different deep learning architectures on the classic MNIST dataset. In the project, I used a convolutional neural net...",
+    "content": "For my data science class’ final project, I chose to compare the performance of different deep learning architectures on the classic MNIST dataset. In the project, I used a convolutional neural network and a dense network.View it here"
+  }
+  
+]
+
