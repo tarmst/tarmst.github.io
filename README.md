@@ -2,7 +2,3 @@ Using: Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-
 
 
 # TODO:
- - Add picture
- - Add resume
- - Remove twitter (don't have)
- - 
