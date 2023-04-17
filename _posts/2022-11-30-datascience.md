@@ -9,4 +9,4 @@ author: tarmst
 For my data science class' final project, I chose to compare the performance of different deep learning architectures on the classic MNIST dataset. In the project, I used a convolutional neural network and a dense network.
 
 
-> Add github/page {: .prompt-tip }
+## [View it here](https://github.com/tarmst/CMSC320-Project/blob/master/main.ipynb)

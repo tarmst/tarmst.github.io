@@ -8,25 +8,18 @@ I'm a junior at the University of Maryland College Park majoring in computer sci
 
 In my free time, I enjoy playing the double bass, learning new languages, and playing video games.
 
-Currently, I'm working on undergraduate research ensuring the polyphase properties of vision transformers. I'm also interning at the Johns Hopkins Applied Physics Laboratory where I am an author of a patent involving bringing deep learning to network traffic analysis.
+Currently, I'm working on undergraduate research ensuring the polyphase properties of vision transformers. I'm also interning at the Johns Hopkins Applied Physics Laboratory where I am an author of intellectual property bringing deep learning to network traffic analysis.
 
 <br/><br/>
 
 ## University of Maryland College Park
  - Major: Computer Science with Machine Learning Specialization
  - Minor: Statistics
+ - Advanced Cybersecurity Experience for Students Living-Learning Program Graduate
  - Presidential Scholar
  - Departmental Honors Student
  - Undergraduate Researcher
  - Dean's List
 
-# [Resume](http://www.google.com)
+# [Resume](../ThomasArmstrongResume-04172023.pdf)
 
-<br/>
-
-<button name="button" onclick="http://www.google.com">Click me</button>
-
-
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
