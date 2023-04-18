@@ -2,7 +2,7 @@
 title: Comparing Various Deep Learning Techniques for Image Classification
 date: 2022-11-30 00:00:00 +/-0000
 categories: [Undergraduate]
-tags: [cnn, dense, vision]     # TAG names should always be lowercase
+tags: [cnn, dense, vision, tensorflow]     # TAG names should always be lowercase
 author: tarmst
 ---
 
