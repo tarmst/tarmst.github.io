@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Thomas Armstrong</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-04-17T18:11:46-04:00</updated>
+  <updated>2023-04-18T13:13:54-04:00</updated>
   <author>
     <name>Thomas Armstrong</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,11 @@
 
   
   <entry>
-    <title>Ensuring Polyphase Properties of Vision Transformers</title>
-    <link href="http://localhost:4000/posts/undergradresearch/" rel="alternate" type="text/html" title="Ensuring Polyphase Properties of Vision Transformers" />
+    <title>Shift Equivariant Vision Transformers</title>
+    <link href="http://localhost:4000/posts/undergradresearch/" rel="alternate" type="text/html" title="Shift Equivariant Vision Transformers" />
     <published>2023-03-30T00:00:00-04:00</published>
   
-    <updated>2023-03-30T00:00:00-04:00</updated>
+    <updated>2023-04-18T10:59:40-04:00</updated>
   
     <id>http://localhost:4000/posts/undergradresearch/</id>
     <content src="http://localhost:4000/posts/undergradresearch/" />
@@ -48,7 +48,7 @@
 
 
 
-      For my undergraduate research, I worked on ensuring the polyphase property of the Vision Transformer. While some components of the transformer were polyphase, others were not. By making the remaining components polyphase, we may be able to make these vision models more robust to adversarial inputs.
+      For my undergraduate research, I worked on making a shift equivariant Vision Transformer. This would allow vision transformers to better classify images that are different than those it trained on by only a slight shift.
 
     </summary>
   
