@@ -2,3 +2,4 @@ Using: Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-
 
 
 # TODO:
+ - Update resume
