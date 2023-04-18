@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
   <title>Thomas Armstrong</title>
-  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-04-18T13:13:54-04:00</updated>
+  <subtitle></subtitle>
+  <updated>2023-04-18T14:15:44-04:00</updated>
   <author>
     <name>Thomas Armstrong</name>
     <uri>http://localhost:4000/</uri>
@@ -24,12 +24,12 @@
     <link href="http://localhost:4000/posts/undergradresearch/" rel="alternate" type="text/html" title="Shift Equivariant Vision Transformers" />
     <published>2023-03-30T00:00:00-04:00</published>
   
-    <updated>2023-04-18T10:59:40-04:00</updated>
+    <updated>2023-04-18T13:15:57-04:00</updated>
   
     <id>http://localhost:4000/posts/undergradresearch/</id>
     <content src="http://localhost:4000/posts/undergradresearch/" />
     <author>
-      <name>willding, davitsoselia, tarmst</name>
+      <name>Thomas Armstrong</name>
     </author>
 
   
@@ -48,7 +48,7 @@
 
 
 
-      For my undergraduate research, I worked on making a shift equivariant Vision Transformer. This would allow vision transformers to better classify images that are different than those it trained on by only a slight shift.
+      For my undergraduate research, I supported the development of a shift equivariant Vision Transformer. By making the vision transformer shift equivariant, it would potentially better classify images that are shifted from their original counterparts. I trained several different iterations of vision transformers and tested them with different types of adversarial attacks.
 
     </summary>
   
@@ -86,6 +86,80 @@
       For my data science class’ final project, I chose to compare the performance of different deep learning architectures on the classic MNIST dataset. In the project, I used a convolutional neural network and a dense network.
 
 View it here
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Applying Deep Learning Models to Network Traffic Analysis</title>
+    <link href="http://localhost:4000/posts/apl/" rel="alternate" type="text/html" title="Applying Deep Learning Models to Network Traffic Analysis" />
+    <published>2022-08-20T00:00:00-04:00</published>
+  
+    <updated>2022-08-20T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/apl/</id>
+    <content src="http://localhost:4000/posts/apl/" />
+    <author>
+      <name>tarmst</name>
+    </author>
+
+  
+    
+    <category term="Research" />
+    
+    <category term="Internship" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      As a part of my work at the Johns Hopkins Applied Physics Laboratory, I created LSTM and transformer models to more efficiently and accurately analyze network traffic.
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Analyzing Moral Foundations From Text Using Transformer-Based Models</title>
+    <link href="http://localhost:4000/posts/apl2/" rel="alternate" type="text/html" title="Analyzing Moral Foundations From Text Using Transformer-Based Models" />
+    <published>2022-08-20T00:00:00-04:00</published>
+  
+    <updated>2022-08-20T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/apl2/</id>
+    <content src="http://localhost:4000/posts/apl2/" />
+    <author>
+      <name>tarmst</name>
+    </author>
+
+  
+    
+    <category term="Research" />
+    
+    <category term="Internship" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      I analyzed moral foundations from text using a BERT model while working at the Johns Hopkins Applied Physics Laboratory. The text I analyzed was gathered from various social media platforms and was categorized into the six moral foundations as described here.
 
     </summary>
   
