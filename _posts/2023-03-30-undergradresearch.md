@@ -7,4 +7,4 @@ author: willding, davitsoselia, tarmst
 ---
 
 
-For my undergraduate research, I worked on making the Vision Transformer was shift equivariant. This would allow vision transformers to better classify images that are different than those it trained on by only a slight shift.
+For my undergraduate research, I worked on making a shift equivariant Vision Transformer. This would allow vision transformers to better classify images that are different than those it trained on by only a slight shift.

@@ -1,7 +1,7 @@
 [
   
   {
-    "title": "Ensuring Polyphase Properties of Vision Transformers",
+    "title": "Shift Equivariant Vision Transformers",
     "url": "/posts/undergradresearch/",
     "categories": "Research, Undergraduate",
     "tags": "transformer, vision",
@@ -13,8 +13,8 @@
 
 
     
-    "snippet": "For my undergraduate research, I worked on ensuring the polyphase property of the Vision Transformer. While some components of the transformer were polyphase, others were not. By making the remaini...",
-    "content": "For my undergraduate research, I worked on ensuring the polyphase property of the Vision Transformer. While some components of the transformer were polyphase, others were not. By making the remaining components polyphase, we may be able to make these vision models more robust to adversarial inputs."
+    "snippet": "For my undergraduate research, I worked on making a shift equivariant Vision Transformer. This would allow vision transformers to better classify images that are different than those it trained on ...",
+    "content": "For my undergraduate research, I worked on making a shift equivariant Vision Transformer. This would allow vision transformers to better classify images that are different than those it trained on by only a slight shift."
   },
   
   {

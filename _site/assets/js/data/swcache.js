@@ -23,9 +23,6 @@ const resource = [
     /* --- Favicons & compressed JS --- */
     
     
-        '/README_chirpy.md',
-        '/ThomasArmstrongResume-04172023.pdf',
-        '/mainpicture.jpg',
         '/assets/img/favicons/android-chrome-192x192.png',
         '/assets/img/favicons/android-chrome-512x512.png',
         '/assets/img/favicons/apple-touch-icon.png',
