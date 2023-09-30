@@ -13,11 +13,13 @@ const resource = [
     
         '/about/',
     
+        '/resume/',
+    
         '/tags/',
     
         '/categories/',
     
-        '/archives/',
+        '/archive/',
     
 
     /* --- Favicons & compressed JS --- */

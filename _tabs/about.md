@@ -23,5 +23,4 @@ In my free time, I enjoy playing the double bass, learning new languages, and ro
  - Undergraduate Researcher
  - Dean's List
 
-# [Resume](../ThomasArmstrongResume-04172023.pdf)
 
