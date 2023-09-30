@@ -1,42 +1,42 @@
 const resource = [
     /* --- CSS --- */
-    '/assets/css/style.css',
+    '/tarmst.github.io/assets/css/style.css',
 
     /* --- PWA --- */
-    '/app.js',
-    '/sw.js',
+    '/tarmst.github.io/app.js',
+    '/tarmst.github.io/sw.js',
 
     /* --- HTML --- */
-    '/index.html',
-    '/404.html',
+    '/tarmst.github.io/index.html',
+    '/tarmst.github.io/404.html',
 
     
-        '/about/',
+        '/tarmst.github.io/about/',
     
-        '/resume/',
+        '/tarmst.github.io/resume/',
     
-        '/tags/',
+        '/tarmst.github.io/tags/',
     
-        '/categories/',
+        '/tarmst.github.io/categories/',
     
-        '/archive/',
+        '/tarmst.github.io/archive/',
     
 
     /* --- Favicons & compressed JS --- */
     
     
-        '/assets/img/favicons/android-chrome-192x192.png',
-        '/assets/img/favicons/android-chrome-512x512.png',
-        '/assets/img/favicons/apple-touch-icon.png',
-        '/assets/img/favicons/favicon-16x16.png',
-        '/assets/img/favicons/favicon-32x32.png',
-        '/assets/img/favicons/favicon.ico',
-        '/assets/img/favicons/mstile-150x150.png',
-        '/assets/js/dist/categories.min.js',
-        '/assets/js/dist/commons.min.js',
-        '/assets/js/dist/misc.min.js',
-        '/assets/js/dist/page.min.js',
-        '/assets/js/dist/post.min.js'
+        '/tarmst.github.io/assets/img/favicons/android-chrome-192x192.png',
+        '/tarmst.github.io/assets/img/favicons/android-chrome-512x512.png',
+        '/tarmst.github.io/assets/img/favicons/apple-touch-icon.png',
+        '/tarmst.github.io/assets/img/favicons/favicon-16x16.png',
+        '/tarmst.github.io/assets/img/favicons/favicon-32x32.png',
+        '/tarmst.github.io/assets/img/favicons/favicon.ico',
+        '/tarmst.github.io/assets/img/favicons/mstile-150x150.png',
+        '/tarmst.github.io/assets/js/dist/categories.min.js',
+        '/tarmst.github.io/assets/js/dist/commons.min.js',
+        '/tarmst.github.io/assets/js/dist/misc.min.js',
+        '/tarmst.github.io/assets/js/dist/page.min.js',
+        '/tarmst.github.io/assets/js/dist/post.min.js'
 ];
 
 /* The request url with below domain will be cached */

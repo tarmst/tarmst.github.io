@@ -2,7 +2,7 @@
   
   {
     "title": "Shift Equivariant Vision Transformers",
-    "url": "/posts/undergradresearch/",
+    "url": "/tarmst.github.io/posts/undergradresearch/",
     "categories": "Research, Undergraduate",
     "tags": "transformer, vision, pytorch",
     "date": "2023-03-30 00:00:00 -0400",
@@ -19,7 +19,7 @@
   
   {
     "title": "Comparing Various Deep Learning Techniques for Image Classification",
-    "url": "/posts/datascience/",
+    "url": "/tarmst.github.io/posts/datascience/",
     "categories": "Undergraduate",
     "tags": "cnn, dense, vision, tensorflow",
     "date": "2022-11-30 00:00:00 -0500",
@@ -36,7 +36,7 @@
   
   {
     "title": "Applying Deep Learning Models to Network Traffic Analysis",
-    "url": "/posts/apl/",
+    "url": "/tarmst.github.io/posts/apl/",
     "categories": "Research, Internship",
     "tags": "network-traffic, tensorflow, pytorch",
     "date": "2022-08-20 00:00:00 -0400",
@@ -53,7 +53,7 @@
   
   {
     "title": "Analyzing Moral Foundations From Text Using Transformer-Based Models",
-    "url": "/posts/apl2/",
+    "url": "/tarmst.github.io/posts/apl2/",
     "categories": "Research, Internship",
     "tags": "transformer, text, pytorch",
     "date": "2022-08-20 00:00:00 -0400",

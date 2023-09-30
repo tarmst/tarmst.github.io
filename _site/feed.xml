@@ -1,33 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>http://localhost:4000/tarmst.github.io/</id>
   <title>Thomas Armstrong</title>
   <subtitle></subtitle>
-  <updated>2023-09-30T12:45:01-04:00</updated>
+  <updated>2023-09-30T12:52:29-04:00</updated>
   <author>
     <name>Thomas Armstrong</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>http://localhost:4000/tarmst.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/tarmst.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="http://localhost:4000/tarmst.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <rights> © 2023 Thomas Armstrong </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/tarmst.github.io/assets/img/favicons/favicon.ico</icon>
+  <logo>/tarmst.github.io/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
     <title>Shift Equivariant Vision Transformers</title>
-    <link href="http://localhost:4000/posts/undergradresearch/" rel="alternate" type="text/html" title="Shift Equivariant Vision Transformers" />
+    <link href="http://localhost:4000/tarmst.github.io/posts/undergradresearch/" rel="alternate" type="text/html" title="Shift Equivariant Vision Transformers" />
     <published>2023-03-30T00:00:00-04:00</published>
   
     <updated>2023-04-18T14:19:01-04:00</updated>
   
-    <id>http://localhost:4000/posts/undergradresearch/</id>
-    <content src="http://localhost:4000/posts/undergradresearch/" />
+    <id>http://localhost:4000/tarmst.github.io/posts/undergradresearch/</id>
+    <content src="http://localhost:4000/tarmst.github.io/posts/undergradresearch/" />
     <author>
       <name>Thomas Armstrong</name>
     </author>
@@ -58,13 +58,13 @@
   
   <entry>
     <title>Comparing Various Deep Learning Techniques for Image Classification</title>
-    <link href="http://localhost:4000/posts/datascience/" rel="alternate" type="text/html" title="Comparing Various Deep Learning Techniques for Image Classification" />
+    <link href="http://localhost:4000/tarmst.github.io/posts/datascience/" rel="alternate" type="text/html" title="Comparing Various Deep Learning Techniques for Image Classification" />
     <published>2022-11-30T00:00:00-05:00</published>
   
     <updated>2023-04-18T14:19:01-04:00</updated>
   
-    <id>http://localhost:4000/posts/datascience/</id>
-    <content src="http://localhost:4000/posts/datascience/" />
+    <id>http://localhost:4000/tarmst.github.io/posts/datascience/</id>
+    <content src="http://localhost:4000/tarmst.github.io/posts/datascience/" />
     <author>
       <name>tarmst</name>
     </author>
@@ -95,13 +95,13 @@ View it here
   
   <entry>
     <title>Applying Deep Learning Models to Network Traffic Analysis</title>
-    <link href="http://localhost:4000/posts/apl/" rel="alternate" type="text/html" title="Applying Deep Learning Models to Network Traffic Analysis" />
+    <link href="http://localhost:4000/tarmst.github.io/posts/apl/" rel="alternate" type="text/html" title="Applying Deep Learning Models to Network Traffic Analysis" />
     <published>2022-08-20T00:00:00-04:00</published>
   
     <updated>2022-08-20T00:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/apl/</id>
-    <content src="http://localhost:4000/posts/apl/" />
+    <id>http://localhost:4000/tarmst.github.io/posts/apl/</id>
+    <content src="http://localhost:4000/tarmst.github.io/posts/apl/" />
     <author>
       <name>tarmst</name>
     </author>
@@ -132,13 +132,13 @@ View it here
   
   <entry>
     <title>Analyzing Moral Foundations From Text Using Transformer-Based Models</title>
-    <link href="http://localhost:4000/posts/apl2/" rel="alternate" type="text/html" title="Analyzing Moral Foundations From Text Using Transformer-Based Models" />
+    <link href="http://localhost:4000/tarmst.github.io/posts/apl2/" rel="alternate" type="text/html" title="Analyzing Moral Foundations From Text Using Transformer-Based Models" />
     <published>2022-08-20T00:00:00-04:00</published>
   
     <updated>2022-08-20T00:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/apl2/</id>
-    <content src="http://localhost:4000/posts/apl2/" />
+    <id>http://localhost:4000/tarmst.github.io/posts/apl2/</id>
+    <content src="http://localhost:4000/tarmst.github.io/posts/apl2/" />
     <author>
       <name>tarmst</name>
     </author>
