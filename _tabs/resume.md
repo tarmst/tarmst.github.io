@@ -1,6 +1,6 @@
 ---
 #layout: about
-icon: fas fa-tag
+icon: fas fa-info-circle
 order: 2
 ---
 
