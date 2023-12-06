@@ -20,7 +20,7 @@ timezone: America/New_York
 
 title: Thomas Armstrong # the main title
 
-tagline: University of Maryland Computer Science Major # it will display as the sub-title
+tagline: University of Maryland<br/>Computer Science Major # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
 
