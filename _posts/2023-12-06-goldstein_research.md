@@ -7,9 +7,9 @@ authors: [tarmst, mlupo, scheeti]
 ---
 
 
-The project is designed to test the effectiveness of large language models for hyper-targeted phishing attacks by
+Under the direction of Dr. Tom Goldstein in UMD's machine learning capstone course, I am working on a project designed to test the effectiveness of large language models for hyper-targeted phishing attacks by
 creating and deploying phishing emails to UMD Computer Science faculty. 
 
-I was the team member in charge of email generation, and developed all of the language model prompts that were used to create the emails; these
+I was the team member in charge of email generation and developed all of the language model prompts that were used to create the emails; these
 prompts directed the model to extract information from faculty biographies, synthesize emails from that information, and automate selection of the best email to send.
 

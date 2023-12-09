@@ -7,10 +7,8 @@ authors: [tarmst]
 ---
 
 
-This project aims to develop a spiking neural network for object detection on event data, allowing object detection in
-scenarios with low power constraints, such as implantable devices and wearables. 
-
-I am contributing to the project by developing a spiking network for object detection. I am currently building and comparing several networks for
+As a part of undergraduate research with Dr. Sahil Shah, I am  developing a spiking network for object detection. Currently, I am building and comparing several networks for
 object detection including single shot multibox detectors and encoder-decoder models using spiking convolutional networks. 
 
-Once built, these networks may be deployed in biomedical devices in the future.
+This project aims to develop a spiking neural network for object detection on event data, allowing object detection in
+scenarios with low power constraints, such as implantable devices and wearables. Once built, these networks may be deployed in biomedical devices in the future.
